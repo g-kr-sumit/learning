@@ -1,3 +1,4 @@
 # learning
 This is my first git repository
-Sumit Kumar Gupta
+Sumit Kumar Gupta<br>
+sumit
